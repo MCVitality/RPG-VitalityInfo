@@ -1,0 +1,31 @@
+name: VitalityInfo-RPG
+main: com.mcvitality.info.Info
+version: 4.0
+author: thedjtrollin
+description: >
+             Infomation for the server e.g. how to donate.
+commands:
+  Store:
+    description: Show the link to the Store
+    usage: |
+            /Store
+  Social:
+    description: Show the link to the social networks
+    usage: |
+            /Social
+  Website:
+    description: Show the URL for the website
+    usage: |
+            /website 
+  Vote:
+    description: Show the link to vote
+    usage: |
+            /vote
+  Reportabug:
+    description: Shows link to report a bug
+    usage: |
+            /reportabug
+  Version:
+    description: Show version number
+    usage: |
+            /Version
